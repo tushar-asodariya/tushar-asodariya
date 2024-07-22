@@ -1,10 +1,16 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/C4E16AQH5g5M7zwNQdg/profile-displaybackgroundimage-shrink_350_1400/0/1645853383152?e=1726704000&v=beta&t=9iL7ixUw6BhKRxsXKHkKsuuPWruhTb0zD-bVvS650TM" align="center" style="width: 100%" />
 </div>  
+
+&nbsp;
+
   
 
 ### <div align="center" >I'm Tushar, a full-time Flutter developer 👨‍💻 working remotely since 2020, based in Gujarat, India 🚀.<br> My passion is to build high-quality applications and websites with superb user experience.</div>  
   
+
+&nbsp;
+
 # 💫 About Me:
 - 🔭 I’m currently working on Online Book-store flutter application.
   

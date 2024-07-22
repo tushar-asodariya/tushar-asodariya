@@ -7,8 +7,11 @@
   
 # 💫 About Me:
 - 🔭 I’m currently working on Online Book-store flutter application.
+  
 - 🌱 I’m currently learning DSA and MERN stack.
+
 - 👯 I’m looking to collaborate on Flutter or MERN stack projects.
+
 - 💬 Talk to me about Flutter, MERN, Javascript, Open-source, AI or Web3. 
 
 

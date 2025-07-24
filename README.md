@@ -12,7 +12,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Online Book-store flutter application.
   
-- 🌱 I’m currently learning DSA and MERN stack.
+- 🌱 I’m currently learning MERN stack.
 
 - 👯 I’m looking to collaborate on Flutter or MERN stack projects.
 
